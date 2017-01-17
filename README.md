@@ -2,7 +2,7 @@
 ## Due: 1-16-2017
 
 ## Author
-
+DeMetrius Bradford
 
 
 ## Description
@@ -33,9 +33,9 @@ If you need some help on how to write proper Markdown for the README file, you c
 [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Outside Resources Used
-
+No outside resources Used	
 
 
 ## Known Problems, Issues, And/Or Errors in the Program
-
+No known issues 
 

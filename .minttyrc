@@ -1,5 +1,5 @@
 BoldAsFont=no
-Transparency=low
+Transparency=high
 CursorType=block
 Locale=en_US
 Charset=UTF-8
@@ -20,7 +20,7 @@ BoldGreen=        88, 110, 117
 Yellow=          181, 137,   0
 BoldYellow=      101, 123, 131
 Blue=             38, 139, 210
-#BoldBlue=        131, 148, 150
+#BoldBlue=        121, 148, 150
 BoldBlue=         38, 139, 210
 Magenta=         211,  54, 130
 BoldMagenta=     108, 113, 196
